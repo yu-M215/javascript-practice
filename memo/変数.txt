@@ -1,0 +1,13 @@
+let int1 = 1;
+
+//　整数の代入
+let int1 = 1;
+
+//　負数の代入
+let int2 = -10;
+
+// 小数点の代入
+let float1 = 3.14;
+
+// 文字列の代入
+let str1 = 'JavaScriptを覚えよう';
