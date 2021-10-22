@@ -1,5 +1,9 @@
-// constによる再宣言
-const nickname = "taro"
-console.log(nickname)
-const nickname = "ichiro"
-console.log(nickname)
+var str = "webcamp"
+
+function foo() {
+  console.log(str)
+  var str = "dmm webcamp"
+  console.log(str)
+}
+
+foo()
